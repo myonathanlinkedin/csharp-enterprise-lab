@@ -1,0 +1,12 @@
+{
+  "topic": "Trino - Official repository of Trino, the distributed SQL query engine for big data",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-05T16:03:38.340676+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
