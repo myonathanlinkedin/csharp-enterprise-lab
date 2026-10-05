@@ -1,0 +1,13 @@
+{
+  "topic": "Day 30 CAP Theorem Distributed System",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-05T18:47:03.751042+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
