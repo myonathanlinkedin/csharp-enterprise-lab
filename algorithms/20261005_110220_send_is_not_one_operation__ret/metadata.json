@@ -1,0 +1,12 @@
+{
+  "topic": "Send Is Not One Operation: Rethinking Distributed Computing #5",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-05T11:02:20.687508+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
