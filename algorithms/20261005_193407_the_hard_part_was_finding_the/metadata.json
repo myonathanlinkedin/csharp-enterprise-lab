@@ -1,0 +1,12 @@
+{
+  "topic": "The Hard Part Was Finding the File: Rethinking Distributed Computing #2",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-05T19:34:07.262614+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
