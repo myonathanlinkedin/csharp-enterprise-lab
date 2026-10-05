@@ -1,0 +1,12 @@
+{
+  "topic": "How to Come Up With the Raft Consensus Algorithm Yourself",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-05T16:49:09.017673+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
