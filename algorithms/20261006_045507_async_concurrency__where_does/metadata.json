@@ -1,0 +1,12 @@
+{
+  "topic": "Async Concurrency: Where does the scheduler live?",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-06T04:55:07.560706+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
