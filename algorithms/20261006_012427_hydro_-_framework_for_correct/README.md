@@ -1,20 +1,20 @@
 # Hydro - Framework for correct and performant distributed systems (C#)
 
-> Modern **C#** reference architecture for **Hydro - Framework for correct and performant distributed systems**. Engineered for rigorous algorithmic correctness, high throughput, and bounded memory utilization.
+> Core **C#** implementation for **Hydro - Framework for correct and performant distributed systems**, structured for computational clarity, explicit data structures, and deterministic unit test coverage.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Hydro - Framework for correct and performant distributed systems**:
 * **Data Organization**: Built upon `Standard Memory Primitives` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Contiguous memory layouts are favored over scattered heap allocations for optimal traversal speed.
-* **Execution Guarantees**: State consistency is verified after every mutation through formal invariant validation.
+* **Safety Invariants**: Contiguous memory layouts and standard collections are favored for straightforward iteration and access.
+* **Execution Guarantees**: State consistency is verified after mutations through assertion test coverage.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(1)$`
-  * Generalized (Avg / Worst): `$O(N)$`
-* **Space Footprint**: `$O(N)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(1)`
+  * Generalized (Avg / Worst): `O(N)`
+* **Space Footprint**: `O(N)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 
@@ -30,4 +30,4 @@ csharp main.cs
 
 ---
 
-*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*

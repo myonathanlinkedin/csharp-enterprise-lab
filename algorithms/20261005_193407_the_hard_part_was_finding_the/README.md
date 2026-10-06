@@ -1,6 +1,6 @@
 # The Hard Part Was Finding the File: Rethinking Distributed Computing #2
 
-High-performance **The Hard Part Was Finding the File: Rethinking Distributed Computing #2** primitive implemented in idiomatic **C#**. Built from scratch using standard library constructs with zero external dependencies.
+Self-contained **The Hard Part Was Finding the File: Rethinking Distributed Computing #2** algorithmic primitive written in idiomatic **C#**. Built from scratch using standard library constructs with zero external dependencies.
 
 ---
 
@@ -9,16 +9,16 @@ High-performance **The Hard Part Was Finding the File: Rethinking Distributed Co
 This module organizes `The Hard Part Was Finding the File: Rethinking Distributed Computing #2` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Correctness Model**: Deterministic behavior across all execution cycles, resilient against asynchronous edge conditions.
+* **Memory Strategy**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Correctness Model**: Execution behavior is validated against nominal workflows and boundary edge cases.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 

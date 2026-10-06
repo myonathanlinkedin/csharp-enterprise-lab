@@ -1,20 +1,20 @@
 # Topological Sort with Cycle Detection in Directed Graphs (C#)
 
-> Production-ready implementation of the **Topological Sort with Cycle Detection in Directed Graphs** algorithm in **C#**, adhering to idiomatic design patterns, cache-friendly data layouts, and comprehensive test assertions.
+> An in-memory reference implementation of **Topological Sort with Cycle Detection in Directed Graphs** in **C#**, adhering to standard library idioms, clean data structures, and assertion test suites.
 
 ## Overview & Mechanics
 
 The implementation focuses on the core mathematical properties of **Topological Sort with Cycle Detection in Directed Graphs**:
 * **Data Organization**: Built upon `Adjacency List & Priority Heap` to ensure predictable traversal and storage overhead.
-* **Safety Invariants**: Memory allocations are kept minimal to avoid allocator contention and preserve CPU cache locality.
-* **Execution Guarantees**: Designed with reentrancy and thread isolation in mind, preventing data races under parallel workloads.
+* **Safety Invariants**: Memory allocations are kept minimal to maintain clear data locality and predictable memory bounds.
+* **Execution Guarantees**: Encapsulates state within isolated data structures, keeping logic self-contained.
 
 ## Complexity Profile
 
 * **Time Complexity**:
-  * Fast Path (Best): `$O(V + E)$`
-  * Generalized (Avg / Worst): `$O((V + E) \log V)$`
-* **Space Footprint**: `$O(V + E)$` resident heap / stack overhead.
+  * Fast Path (Best): `O(V + E)`
+  * Generalized (Avg / Worst): `O((V + E) log V)`
+* **Space Footprint**: `O(V + E)` resident heap / stack overhead.
 
 ## Verification & Test Scenarios
 

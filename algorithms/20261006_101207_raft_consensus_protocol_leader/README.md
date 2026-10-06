@@ -14,9 +14,9 @@ A clean, dependency-free **C#** reference implementation of **Raft Consensus Pro
 
 | Dimension | Bound |
 | :--- | :--- |
-| **Time (Best Case)** | `$O(1)$` |
-| **Time (Worst Case)** | `$O(N) during sync$` |
-| **Auxiliary Space** | `$O(N) state log$` |
+| **Time (Best Case)** | `O(1)` |
+| **Time (Worst Case)** | `O(N) during sync` |
+| **Auxiliary Space** | `O(N) state log` |
 
 ---
 

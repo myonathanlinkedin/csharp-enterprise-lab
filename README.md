@@ -25,7 +25,7 @@
 | 10 | **Hydro - Framework for correct and performant distributed systems** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_012427_hydro_-_framework_for_correct/engine.cs) |
 | 11 | **Day 30 CAP Theorem Distributed System** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_021706_day_30_cap_theorem_distributed/engine.cs) |
 | 12 | **Async Concurrency: Where does the scheduler live?** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_045507_async_concurrency__where_does/core.cs) |
-| 13 | **CV-QAOA: Efficient Low-Depth Quantum Optimization of Continuous Variables** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_065354_cv-qaoa__efficient_low-depth_q/engine.cs) |
+| 13 | **Continuous Variable Optimization and Gradient State Engine** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_065354_cv-qaoa__efficient_low-depth_q/engine.cs) |
 | 14 | **Optimal compression with quantum retrieval** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_081757_optimal_compression_with_quant/core.cs) |
 | 15 | **Random Order in Quantum Streaming: Replenishment and Robust Lower Bounds** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_082053_random_order_in_quantum_stream/core.cs) |
 | 16 | **Raft Consensus Protocol Leader Election State Engine** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261006_101207_raft_consensus_protocol_leader/core.cs) |
@@ -57,4 +57,4 @@ dotnet run
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 10:12 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-06 10:45 UTC*</sub>

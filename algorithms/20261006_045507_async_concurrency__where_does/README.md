@@ -1,6 +1,6 @@
 # Async Concurrency: Where does the scheduler live?
 
-A clean, dependency-free **C#** implementation of **Async Concurrency: Where does the scheduler live?**, focused on predictable latency, strict memory layout, and deterministic execution.
+A clean, dependency-free **C#** reference implementation of **Async Concurrency: Where does the scheduler live?**, focused on core algorithmic mechanics, clear memory layout, and test verification.
 
 ---
 
@@ -9,16 +9,16 @@ A clean, dependency-free **C#** implementation of **Async Concurrency: Where doe
 This module organizes `Async Concurrency: Where does the scheduler live?` into an isolated, self-contained unit:
 * **Domain Focus**: `Algorithmic Engineering`
 * **Primary Primitives**: `Standard Memory Primitives`
-* **Memory Strategy**: Buffer boundaries are strictly verified to prevent out-of-bounds access and memory leak hazards.
-* **Correctness Model**: State transitions adhere to strict ordering guarantees with explicit synchronization fences where necessary.
+* **Memory Strategy**: Buffer boundaries and collection indices are explicitly validated to prevent out-of-bounds access.
+* **Correctness Model**: State transitions follow clear ordering guarantees with explicit validation at each phase.
 
 ### Asymptotic Complexity
 
 | Metric | Bound | Characteristics |
 | :--- | :---: | :--- |
-| **Best Case Time** | `$O(1)$` | Optimized fast-path execution |
-| **Average / Worst Time** | `$O(N)$` | Deterministic upper bound for generalized workloads |
-| **Space Complexity** | `$O(N)$` | Strict bounds without unconstrained heap growth |
+| **Best Case Time** | `O(1)` | Optimized fast-path execution |
+| **Average / Worst Time** | `O(N)` | Deterministic upper bound for generalized workloads |
+| **Space Complexity** | `O(N)` | Strict bounds without unconstrained heap growth |
 
 ---
 
@@ -37,4 +37,4 @@ csharp main.cs
 
 ---
 
-*Curated as part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
+*Part of the Polyglot Systems Lab • Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin)*
