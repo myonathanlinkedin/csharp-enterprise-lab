@@ -1,0 +1,12 @@
+{
+  "topic": "LLMs and Data Poisoning Are Weaponized to Manufacture Consensus",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-07T11:56:01.261785+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
