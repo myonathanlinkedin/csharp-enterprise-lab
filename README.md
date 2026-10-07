@@ -2,7 +2,7 @@
 > Modern .NET 8/9 cloud primitives, Span<T> zero-allocation pipelines, and enterprise architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/csharp-enterprise-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-23%20Modules-blue?style=for-the-badge&logo=csharp)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-24%20Modules-blue?style=for-the-badge&logo=csharp)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -36,6 +36,7 @@
 | 21 | **A Private IPFS Data Sanctuary for Verifiable Digital Collection Objects** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_020654_a_private_ipfs_data_sanctuary/engine.cs) |
 | 22 | **Vector Clock Distributed Event Ordering Mechanism** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_042927_vector_clock_distributed_event/core.cs) |
 | 23 | **Almost Instance Optimal Sum and Moment Estimation Using Weighted Sampling** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_091537_almost_instance_optimal_sum_an/core.cs) |
+| 24 | **Concurrency Programming (8): Read-Write Locks From Language Rules to the CPU** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_115015_concurrency_programming__8___r/engine.cs) |
 
 ---
 
@@ -64,4 +65,4 @@ dotnet run
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 09:16 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-07 11:50 UTC*</sub>
