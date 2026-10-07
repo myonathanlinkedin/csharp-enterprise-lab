@@ -1,0 +1,13 @@
+{
+  "topic": "Concurrency Programming (8): Read-Write Locks From Language Rules to the CPU",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-07T11:50:15.660048+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
