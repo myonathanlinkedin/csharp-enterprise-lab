@@ -1,0 +1,12 @@
+{
+  "topic": "Bulletproof Idempotency in Distributed Payment Systems: Beyond the Client Header",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-08T14:09:15.752196+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
