@@ -1,0 +1,13 @@
+{
+  "topic": "Barely Monotone (min,+)-Convolution in Truly Subquadratic Time",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-08T09:10:16.054835+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
