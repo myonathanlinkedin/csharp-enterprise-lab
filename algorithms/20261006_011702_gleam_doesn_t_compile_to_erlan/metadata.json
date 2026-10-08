@@ -1,0 +1,12 @@
+{
+  "topic": "Gleam doesn t compile to Erlang source anymore",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-06T01:17:02.780843+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
