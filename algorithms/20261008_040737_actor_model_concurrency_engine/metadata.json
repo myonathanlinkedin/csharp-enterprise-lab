@@ -1,0 +1,12 @@
+{
+  "topic": "Actor Model Concurrency Engine with Mailbox Processing",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-08T04:07:37.807578+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
