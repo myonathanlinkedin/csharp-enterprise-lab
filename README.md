@@ -2,7 +2,7 @@
 > Modern .NET 8/9 cloud primitives, Span<T> zero-allocation pipelines, and enterprise architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/csharp-enterprise-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-20%20Modules-blue?style=for-the-badge&logo=csharp)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-21%20Modules-blue?style=for-the-badge&logo=csharp)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -33,6 +33,7 @@
 | 18 | **Gossip Protocol Node Failure Detector** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_115311_gossip_protocol_node_failure_d/engine.cs) |
 | 19 | **LLMs and Data Poisoning Are Weaponized to Manufacture Consensus** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261007_115601_llms_and_data_poisoning_are_we/core.cs) |
 | 20 | **Actor Model Concurrency Engine with Mailbox Processing** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_040737_actor_model_concurrency_engine/core.cs) |
+| 21 | **Etcd - Distributed reliable key-value store for the most critical data of a distributed** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261008_120529_etcd_-_distributed_reliable_ke/core.cs) |
 
 ---
 
@@ -61,4 +62,4 @@ dotnet run
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-08 11:55 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-08 12:05 UTC*</sub>
