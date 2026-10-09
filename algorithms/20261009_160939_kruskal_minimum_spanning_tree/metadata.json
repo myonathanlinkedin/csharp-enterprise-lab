@@ -1,0 +1,12 @@
+{
+  "topic": "Kruskal Minimum Spanning Tree with Disjoint-Set Union",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-09T16:09:39.984066+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
