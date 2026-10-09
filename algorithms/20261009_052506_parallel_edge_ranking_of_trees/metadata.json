@@ -1,0 +1,12 @@
+{
+  "topic": "Parallel Edge Ranking of Trees",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-09T05:25:06.493650+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
