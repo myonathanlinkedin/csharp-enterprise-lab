@@ -1,0 +1,13 @@
+{
+  "topic": "An ETH-based quasipolynomial lower bound for Dualization",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-09T05:22:49.406657+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
