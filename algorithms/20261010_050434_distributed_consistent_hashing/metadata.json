@@ -1,0 +1,12 @@
+{
+  "topic": "Distributed Consistent Hashing Router with Virtual Nodes",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-10T05:04:34.310311+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
