@@ -1,0 +1,13 @@
+{
+  "topic": "Gossip Protocol Node Failure Detector",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-11T09:32:39.687734+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
