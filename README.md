@@ -2,7 +2,7 @@
 > Modern .NET 8/9 cloud primitives, Span<T> zero-allocation pipelines, and enterprise architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/csharp-enterprise-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-24%20Modules-blue?style=for-the-badge&logo=csharp)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-25%20Modules-blue?style=for-the-badge&logo=csharp)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -37,6 +37,7 @@
 | 22 | **Vector Clock Distributed Event Ordering Mechanism** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_174822_vector_clock_distributed_event/core.cs) |
 | 23 | **Gossip Protocol Node Failure Detector** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_184006_gossip_protocol_node_failure_d/core.cs) |
 | 24 | **Conflict-free Replicated Data Type (CRDT) PN-Counter** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261010_225226_conflict-free_replicated_data/core.cs) |
+| 25 | **LMAX Disruptor Ring Buffer Pattern** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261011_030233_lmax_disruptor_ring_buffer_pat/engine.cs) |
 
 ---
 
@@ -65,4 +66,4 @@ dotnet run
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-10 22:52 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-11 03:02 UTC*</sub>
