@@ -1,0 +1,13 @@
+{
+  "topic": "The Celebrity Problem: From Brute Force to O(n)",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-14T01:01:19.405030+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
