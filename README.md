@@ -2,7 +2,7 @@
 > Modern .NET 8/9 cloud primitives, Span<T> zero-allocation pipelines, and enterprise architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/csharp-enterprise-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-33%20Modules-blue?style=for-the-badge&logo=csharp)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-34%20Modules-blue?style=for-the-badge&logo=csharp)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -54,6 +54,7 @@
 | 31 | **The Celebrity Problem: From Brute Force to O(n)** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261014_010119_the_celebrity_problem__from_br/engine.cs) |
 | 32 | **Phobos** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261015_010105_phobos/core.cs) |
 | 33 | **Sliding Window Rate Limiter with Distributed Token Bucket** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261015_062114_sliding_window_rate_limiter_wi/core.cs) |
+| 34 | **Distributed Task Scheduler System Design: Jobs, Retries, Leases, and Failures** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261015_170118_distributed_task_scheduler_sys/core.cs) |
 
 ---
 
@@ -82,4 +83,4 @@ dotnet run
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-15 06:21 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-15 17:01 UTC*</sub>
