@@ -1,0 +1,12 @@
+{
+  "topic": "Topological Sort with Cycle Detection in Directed Graphs",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-05T09:50:52.247616+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}

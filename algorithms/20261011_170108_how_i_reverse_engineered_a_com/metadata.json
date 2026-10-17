@@ -1,0 +1,12 @@
+{
+  "topic": "How I reverse engineered a commercial spatial audio effect",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-11T17:01:08.104843+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}

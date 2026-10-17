@@ -1,0 +1,13 @@
+{
+  "topic": "HyperLogLog Cardinality Estimation Algorithm",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-09T16:07:18.251426+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "topic": "Lamport Logical Timestamp Synchronization Engine",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-09T15:08:06.087160+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}

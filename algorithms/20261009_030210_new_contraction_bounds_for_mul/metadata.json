@@ -1,0 +1,12 @@
+{
+  "topic": "New Contraction Bounds for Multidimensional Asymptotic Consensus in Dynamic Networks",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-09T03:02:10.282735+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}

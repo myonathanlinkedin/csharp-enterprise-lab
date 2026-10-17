@@ -1,0 +1,12 @@
+{
+  "topic": "CYK Parsing Algorithm for Context-Free Grammars",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-06T15:02:40.458293+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}

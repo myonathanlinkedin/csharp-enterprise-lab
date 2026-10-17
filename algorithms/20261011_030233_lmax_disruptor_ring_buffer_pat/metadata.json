@@ -1,0 +1,13 @@
+{
+  "topic": "LMAX Disruptor Ring Buffer Pattern",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-11T03:02:33.259007+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
