@@ -1,0 +1,13 @@
+{
+  "topic": "Count-Min Sketch Heavy Hitters Frequency Estimator",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-20T07:01:38.147039+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
