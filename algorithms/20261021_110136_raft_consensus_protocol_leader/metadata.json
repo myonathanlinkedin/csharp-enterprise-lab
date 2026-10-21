@@ -1,0 +1,12 @@
+{
+  "topic": "Raft Consensus Protocol Leader Election State Engine",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-21T11:01:36.997114+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
