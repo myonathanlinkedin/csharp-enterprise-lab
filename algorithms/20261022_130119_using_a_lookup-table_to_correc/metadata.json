@@ -1,0 +1,13 @@
+{
+  "topic": "Using a lookup-table to correct an approximation",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-22T13:01:19.810597+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
