@@ -1,0 +1,12 @@
+{
+  "topic": "ForkTrace: following a food outbreak back through a graph",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-24T23:01:30.442608+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
