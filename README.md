@@ -2,7 +2,7 @@
 > Modern .NET 8/9 cloud primitives, Span<T> zero-allocation pipelines, and enterprise architectures. Maintained by [@myonathanlinkedin](https://github.com/myonathanlinkedin).
 
 [![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=github-actions)](https://github.com/myonathanlinkedin/csharp-enterprise-lab/actions)
-[![Total Modules](https://img.shields.io/badge/Algorithms-41%20Modules-blue?style=for-the-badge&logo=csharp)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
+[![Total Modules](https://img.shields.io/badge/Algorithms-42%20Modules-blue?style=for-the-badge&logo=csharp)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
 [![Architect](https://img.shields.io/badge/Architect-@myonathanlinkedin-purple?style=for-the-badge&logo=linkedin)](https://github.com/myonathanlinkedin)
 [![Verified](https://img.shields.io/badge/Tests-100%25%20Verified-success?style=for-the-badge)](https://github.com/myonathanlinkedin/csharp-enterprise-lab)
 [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](LICENSE)
@@ -62,6 +62,7 @@
 | 39 | **Using a lookup-table to correct an approximation** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261022_130119_using_a_lookup-table_to_correc/engine.cs) |
 | 40 | **Sliding Window Rate Limiter with Distributed Token Bucket** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261023_050122_sliding_window_rate_limiter_wi/core.cs) |
 | 41 | **ForkTrace: following a food outbreak back through a graph** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261024_230130_forktrace__following_a_food_ou/core.cs) |
+| 42 | **Almost tight distributed approximation for domination in sparse graph classes** | csharp | $O(\log N)$ | $O(N)$ | ✅ Verified | [View Module ↗](algorithms/20261025_090126_almost_tight_distributed_appro/engine.cs) |
 
 ---
 
@@ -90,4 +91,4 @@ dotnet run
 
 ---
 
-<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-24 23:01 UTC*</sub>
+<sub>⚡ *Automated Sync & Dynamic Verification Engine by [@myonathanlinkedin](https://github.com/myonathanlinkedin) • Last Synced: 2026-10-25 09:01 UTC*</sub>

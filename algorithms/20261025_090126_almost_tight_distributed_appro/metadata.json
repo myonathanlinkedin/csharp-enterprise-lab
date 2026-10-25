@@ -1,0 +1,13 @@
+{
+  "topic": "Almost tight distributed approximation for domination in sparse graph classes",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-10-25T09:01:26.495631+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
