@@ -1,0 +1,12 @@
+{
+  "topic": "Huffman Coding Lossless Compression and Decompression",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-06T08:01:16.727121+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
