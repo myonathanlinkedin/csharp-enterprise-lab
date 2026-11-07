@@ -1,0 +1,13 @@
+{
+  "topic": "Hopcroft-Karp Bipartite Matching Algorithm",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-07T03:02:53.853298+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
