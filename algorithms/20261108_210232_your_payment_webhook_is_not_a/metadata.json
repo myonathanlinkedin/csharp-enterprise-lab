@@ -1,0 +1,12 @@
+{
+  "topic": "Your Payment Webhook Is Not a Notification. It s a Distributed Systems Problem.",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-08T21:02:32.728328+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
