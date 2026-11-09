@@ -1,0 +1,12 @@
+{
+  "topic": "Consensus-Constrained Dual-Federated Optimization with Client-Side Dynamic Weighting for",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-09T13:02:43.978327+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
