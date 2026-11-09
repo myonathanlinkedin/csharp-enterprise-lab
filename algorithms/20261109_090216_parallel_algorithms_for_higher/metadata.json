@@ -1,0 +1,12 @@
+{
+  "topic": "Parallel Algorithms for Higher-Order Temporal H-Index Computation",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-09T09:02:16.209723+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
