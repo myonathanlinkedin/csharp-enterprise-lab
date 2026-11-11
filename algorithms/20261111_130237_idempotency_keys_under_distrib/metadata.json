@@ -1,0 +1,13 @@
+{
+  "topic": "Idempotency Keys Under Distributed Retry Pressure: Key Scoping, Storage Contracts, and",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-11T13:02:37.872346+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
