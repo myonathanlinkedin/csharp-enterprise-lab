@@ -1,0 +1,13 @@
+{
+  "topic": "Bytecode Virtual Machine with Stack Evaluation Engine",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-16T14:01:25.516049+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
