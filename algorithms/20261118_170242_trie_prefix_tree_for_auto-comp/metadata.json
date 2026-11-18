@@ -1,0 +1,13 @@
+{
+  "topic": "Trie Prefix Tree for Auto-Completion with Frequency Ranking",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-18T17:02:42.852878+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
