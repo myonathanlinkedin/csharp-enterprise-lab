@@ -1,0 +1,12 @@
+{
+  "topic": "Storage Engines Explained: B-Tree vs LSM Tree",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-20T17:03:55.977856+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
