@@ -1,0 +1,12 @@
+{
+  "topic": "Self-Balancing AVL Tree with Chronos-Topology",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-21T01:02:21.327386+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
