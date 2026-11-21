@@ -1,0 +1,13 @@
+{
+  "topic": "Supporting FOSS projects to transition to memory safe tech",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-21T03:02:02.701575+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
