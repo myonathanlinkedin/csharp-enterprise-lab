@@ -1,0 +1,13 @@
+{
+  "topic": "Suffix Automaton for Linear-Time Substring Indexing",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-22T11:01:21.478315+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
