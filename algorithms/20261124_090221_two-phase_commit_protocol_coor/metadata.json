@@ -1,0 +1,13 @@
+{
+  "topic": "Two-Phase Commit Protocol Coordinator and Participant State Machine",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-24T09:02:21.311715+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
