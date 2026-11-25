@@ -1,0 +1,13 @@
+{
+  "topic": "High-Throughput Disruptor Ring Buffer Pattern",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-25T05:03:19.836565+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
