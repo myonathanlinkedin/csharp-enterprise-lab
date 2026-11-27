@@ -1,0 +1,13 @@
+{
+  "topic": "A Local-Counting Approach for Distributed Induced Path Detection",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-27T19:02:46.650975+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
