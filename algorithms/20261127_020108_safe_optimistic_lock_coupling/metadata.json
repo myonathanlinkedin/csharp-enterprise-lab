@@ -1,0 +1,12 @@
+{
+  "topic": "Safe Optimistic Lock Coupling",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-27T02:01:08.246098+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
