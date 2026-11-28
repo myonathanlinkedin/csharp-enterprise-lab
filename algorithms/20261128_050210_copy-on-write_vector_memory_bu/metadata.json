@@ -1,0 +1,12 @@
+{
+  "topic": "Copy-on-Write Vector Memory Buffer Management",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-28T05:02:10.551208+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
