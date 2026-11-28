@@ -1,0 +1,12 @@
+{
+  "topic": "Linear Single-Source Shortest Path, Almost",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-28T11:02:38.386751+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "core.cs",
+    "main.cs"
+  ]
+}
