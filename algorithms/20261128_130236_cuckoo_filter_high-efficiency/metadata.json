@@ -1,0 +1,13 @@
+{
+  "topic": "Cuckoo Filter High-Efficiency Deletion Structure",
+  "language": "C#",
+  "extension": ".cs",
+  "category": "csharp",
+  "timestamp_utc": "2026-11-28T13:02:36.444101+00:00",
+  "source_file": "main.cs",
+  "files": [
+    "types.cs",
+    "engine.cs",
+    "main.cs"
+  ]
+}
